@@ -30,6 +30,28 @@ Available in two variants:
 
 ---
 
+## `arrow` Alternatives (`alternatives/`)
+
+13 additional `arrow` shapes (`dark/` and `light/`, hotspot `(2, 2)`) — sharp, brutalist, geometric, round, and square variants:
+
+| Variant | Dark | Light | Style |
+| :--- | :---: | :---: | :--- |
+| `02-razor-shard` | ![dark 02](./alternatives/dark/02-razor-shard.svg) | ![light 02](./alternatives/light/02-razor-shard.svg) | Sharp asymmetric blade |
+| `03-brutalist-block` | ![dark 03](./alternatives/dark/03-brutalist-block.svg) | ![light 03](./alternatives/light/03-brutalist-block.svg) | 90° orthogonal block |
+| `04-origami-kite` | ![dark 04](./alternatives/dark/04-origami-kite.svg) | ![light 04](./alternatives/light/04-origami-kite.svg) | Directional diamond |
+| `05-tri-prism` | ![dark 05](./alternatives/dark/05-tri-prism.svg) | ![light 05](./alternatives/light/05-tri-prism.svg) | Scalene triangle |
+| `06-hex-dart` | ![dark 06](./alternatives/dark/06-hex-dart.svg) | ![light 06](./alternatives/light/06-hex-dart.svg) | Faceted hex dart |
+| `07-target-chevron` | ![dark 07](./alternatives/dark/07-target-chevron.svg) | ![light 07](./alternatives/light/07-target-chevron.svg) | Chevron + reticle |
+| `08-stepped-monolith` | ![dark 08](./alternatives/dark/08-stepped-monolith.svg) | ![light 08](./alternatives/light/08-stepped-monolith.svg) | Glitch-sliced steps |
+| `09-orb-teardrop` | ![dark 09](./alternatives/dark/09-orb-teardrop.svg) | ![light 09](./alternatives/light/09-orb-teardrop.svg) | Round teardrop pin |
+| `10-halo-circle` | ![dark 10](./alternatives/dark/10-halo-circle.svg) | ![light 10](./alternatives/light/10-halo-circle.svg) | Pure circle + precision dot |
+| `11-soft-arrow` | ![dark 11](./alternatives/dark/11-soft-arrow.svg) | ![light 11](./alternatives/light/11-soft-arrow.svg) | Soft-edged arrow |
+| `12-directional-squircle` | ![dark 12](./alternatives/dark/12-directional-squircle.svg) | ![light 12](./alternatives/light/12-directional-squircle.svg) | Rounded square + sharp tip |
+| `13-brutalist-cube` | ![dark 13](./alternatives/dark/13-brutalist-cube.svg) | ![light 13](./alternatives/light/13-brutalist-cube.svg) | Sharp 90° cube |
+| `14-soft-box` | ![dark 14](./alternatives/dark/14-soft-box.svg) | ![light 14](./alternatives/light/14-soft-box.svg) | Rounded square + circle core |
+
+---
+
 ## Installation
 
 ### Windows 10 / 11
